@@ -22,3 +22,6 @@
   - fig1_map.png
   - rd_plot.png
   - moran.png
+
+4. **Paper**
+- final_paper_baileyj.pdf
