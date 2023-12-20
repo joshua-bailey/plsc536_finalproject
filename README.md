@@ -10,10 +10,10 @@
 
 2. **R files**
 
-- table1
-- table2
-- figure
-- extension
+- table1.r
+- table2.r
+- figure.r
+- extension.r
 
 3. **Paper files**
 - main.tex
