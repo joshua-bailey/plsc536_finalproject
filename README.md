@@ -1,6 +1,6 @@
 # plsc536_finalproject_joshua_bailey
 
-1. Data
+1. **Data**
 
 - gis_grid.dta
 - consumption.dta
@@ -8,14 +8,14 @@
 - budget1572.dta
 - height.dta (not uploaded - too large)
 
-2. R files
+2. **R files**
 
 - table1
 - table2
 - figure
 - extension
 
-3. Paper files
+3. **Paper files**
 - main.tex
 - references.bib
 - figures:
